@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AAM</string>
+    <string name="D1_o1">open drawer one</string>
+    <string name="D1_o2">open drawer 1</string>
+    <string name="D1_o3">open draw 1</string>
+    <string name="D1_o4">open draw one</string>
+    <string name="D1_o5">motor</string>
+    <string name="D1_o6">wire</string>
+    <string name="D1_o7">wires</string>
+    <string name="D1_o8">spoon</string>
+    <string name="D1_o9">Spoon</string>
+    <string name="D1_c1">close drawer one</string>
+    <string name="D1_c2">close drawer 1</string>
+    <string name="D1_c3">close one</string>
+    <string name="D1_c4">close 1</string>
+    <string name="D2_o1">open drawer two</string>
+    <string name="D2_o2">open drawer 2</string>
+    <string name="D2_o3">open draw 2</string>
+    <string name="D2_o4">open draw two</string>
+    <string name="D2_o5">nuts</string>
+    <string name="D2_o6">motor drivers</string>
+    <string name="D2_o7">board</string>
+    <string name="D3_c4">close draw 3</string>
+    <string name="D2_c1">close drawer two</string>
+    <string name="D2_c2">close 2</string>
+    <string name="D2_c3">close two</string>
+    <string name="D2_c4">close draw two</string>
+    <string name="D3_o1">open drawer three</string>
+    <string name="D3_o2">open drawer 3</string>
+    <string name="D3_o3">open draw three</string>
+    <string name="D3_o4">open draw 3</string>
+    <string name="D3_o5">UNO</string>
+    <string name="D3_o6">Pune</string>
+    <string name="D3_o7">you know</string>
+    <string name="D3_o8">wheels</string>
+    <string name="D3_o9">knife</string>
+    <string name="D3_o10">nice</string>
+    <string name="D3_c1">close three</string>
+    <string name="D3_c2">close 3</string>
+    <string name="D3_c3">close draw three</string>
+    <string name="ss">Khul Ja Sim Sim</string>
+
+
+</resources>
